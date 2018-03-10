@@ -1,0 +1,21 @@
+﻿Build started 05-02-2018 10:31:53.
+     1>Project "E:\Learning\TeleDNA\Theatar_system\Theatar_system\Theatar_system.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Theatar_system.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Theatar_system.unsuccessfulbuild".
+         Touching "Debug\Theatar_system.lastbuildstate".
+     1>Done Building Project "E:\Learning\TeleDNA\Theatar_system\Theatar_system\Theatar_system.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05
